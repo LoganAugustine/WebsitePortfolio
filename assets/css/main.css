@@ -2351,6 +2351,19 @@ input, select, textarea {
 				width: 100%;
 			}
 
+		.image.preview {
+			float: right;
+			padding: 0 0 1em 1.5em;
+			top: 0.25em;
+			max-width: 40%;
+		}
+
+			.image.preview img {
+				width: 100%;
+				border: 2px solid rgba(160, 160, 160, 0.4);
+				border-radius: 4px;
+			}
+
 /* List */
 
 	ol {
