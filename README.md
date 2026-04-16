@@ -17,3 +17,4 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+![websitepreview2](https://github.com/user-attachments/assets/f309a9b3-6577-4786-aa6a-f7e8af4daf1e)
