@@ -1,0 +1,4 @@
+Push Commands in Terminal
+
+cd ~/Projects/WebsitePortfolio
+python3 push.py
