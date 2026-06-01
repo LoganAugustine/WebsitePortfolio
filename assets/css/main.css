@@ -3378,6 +3378,10 @@ input, select, textarea {
 			display: block;
 		}
 
+		body.slim-page #wrapper {
+   			width: 70em;
+		}
+
 /* Main */
 
 	#main {
@@ -3521,6 +3525,14 @@ input, select, textarea {
 
 	body.single #footer {
 		text-align: center;
+	}
+
+	.pagination {
+    	justify-content: center;
+	}
+
+	ul.actions.pagination {
+    	justify-content: space-between;
 	}
 
 /* Menu */
